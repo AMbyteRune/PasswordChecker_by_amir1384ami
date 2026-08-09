@@ -1,1 +1,1 @@
-﻿I tried my best to amke a pass checker, is you think anything can help this code to be more advanced or be better, i would be really happy to know it, thanks.
+﻿I tried to make a pass checker, is you think anything can help this code to be more advanced or be better, i would be really happy to know it, thanks.
